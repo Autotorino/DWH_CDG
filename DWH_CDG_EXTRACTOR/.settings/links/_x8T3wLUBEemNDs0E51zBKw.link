@@ -1,0 +1,80 @@
+{
+  "itemId" : "_x8T3wLUBEemNDs0E51zBKw",
+  "contextList" : [ {
+    "contextName" : "dev",
+    "repoId" : "_McuX8KloEemvdbMxCJroiw",
+    "parameterList" : [ {
+      "id" : "_D_BaJcaYEeqJ3ZcASFD5qQ",
+      "name" : "RETENTION_BACKUP_FILE"
+    }, {
+      "id" : "_D_BaJsaYEeqJ3ZcASFD5qQ",
+      "name" : "ORACLE_CLOUD_Url"
+    }, {
+      "id" : "_D_BaJ8aYEeqJ3ZcASFD5qQ",
+      "name" : "ORACLE_CLOUD_Password"
+    }, {
+      "id" : "_D_BaKMaYEeqJ3ZcASFD5qQ",
+      "name" : "ORACLE_CLOUD_Username"
+    }, {
+      "id" : "_D_BaKcaYEeqJ3ZcASFD5qQ",
+      "name" : "TALEND_PATH_FILE_CSV"
+    }, {
+      "id" : "_D_BaKsaYEeqJ3ZcASFD5qQ",
+      "name" : "SIPADX_DB_Server"
+    }, {
+      "id" : "_D_BaK8aYEeqJ3ZcASFD5qQ",
+      "name" : "SIPADX_DB_Port"
+    }, {
+      "id" : "_D_BaLMaYEeqJ3ZcASFD5qQ",
+      "name" : "SIPADX_DB_Database"
+    }, {
+      "id" : "_D_BaLcaYEeqJ3ZcASFD5qQ",
+      "name" : "SIPADX_DB_Login"
+    }, {
+      "id" : "_D_BaLsaYEeqJ3ZcASFD5qQ",
+      "name" : "SIPADX_DB_Password"
+    }, {
+      "id" : "_D_BaL8aYEeqJ3ZcASFD5qQ",
+      "name" : "SIPADX_DB_Schema"
+    }, {
+      "id" : "_D_BaMMaYEeqJ3ZcASFD5qQ",
+      "name" : "DWH_AT_MAIL_NOTIFY"
+    }, {
+      "id" : "_D_BaMcaYEeqJ3ZcASFD5qQ",
+      "name" : "DWH_AT_MAIL_SMTP_HOST"
+    }, {
+      "id" : "_D_BaMsaYEeqJ3ZcASFD5qQ",
+      "name" : "DWH_AT_MAIL_SMTP_PORT"
+    }, {
+      "id" : "_D_BaM8aYEeqJ3ZcASFD5qQ",
+      "name" : "DWH_AT_MAIL_SMTP_USER"
+    }, {
+      "id" : "_D_BaNMaYEeqJ3ZcASFD5qQ",
+      "name" : "DWH_AT_MAIL_SMTP_PWD"
+    }, {
+      "id" : "_D_BaNcaYEeqJ3ZcASFD5qQ",
+      "name" : "DWH_AT_MAIL_SMTP_DEST"
+    }, {
+      "id" : "_UNvDUsajEeqJ3ZcASFD5qQ",
+      "name" : "TALEND_PATH_FILE_INPUT_XLS"
+    }, {
+      "id" : "_1KZU0sanEeqJ3ZcASFD5qQ",
+      "name" : "BEV_XLS_PREFIX"
+    }, {
+      "id" : "_v8Y2EscvEeqeL4EEnF8RFg",
+      "name" : "COSTI_GESTIONE_XLS_PREFIX"
+    }, {
+      "id" : "_Yd_cBNcUEeqBeP_PWfl4kQ",
+      "name" : "BEV_XLS_TYPE"
+    }, {
+      "id" : "_Yd_cBdcUEeqBeP_PWfl4kQ",
+      "name" : "COSTI_GESTIONE_XLS_TYPE"
+    }, {
+      "id" : "_mKyaQvZwEeqraoFWhSzJ6A",
+      "name" : "RESERVATION_PROCESS_ID"
+    }, {
+      "id" : "_0g9ssgS1EeumR_IUJ4MUMg",
+      "name" : "TALEND_PATH_LOG"
+    } ]
+  } ]
+}

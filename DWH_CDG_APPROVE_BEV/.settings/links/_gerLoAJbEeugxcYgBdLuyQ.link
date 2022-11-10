@@ -39,6 +39,9 @@
     }, {
       "id" : "_jLTbaTXhEe2Ks8JGQopFMA",
       "name" : "TALEND_PATH_LOG"
+    }, {
+      "id" : "_DSxH4WDgEe2ceY2JeC6fHw",
+      "name" : "resource_webhook_payload"
     } ]
   }, {
     "contextName" : "dev",
@@ -79,6 +82,9 @@
     }, {
       "id" : "_Q8IDzi4oEeuy5drmUNCVMA",
       "name" : "TALEND_PATH_LOG"
+    }, {
+      "id" : "_DSxH4mDgEe2ceY2JeC6fHw",
+      "name" : "resource_webhook_payload"
     } ]
   }, {
     "contextName" : "Default",
@@ -119,6 +125,9 @@
     }, {
       "id" : "_jLTbXDXhEe2Ks8JGQopFMA",
       "name" : "TALEND_PATH_LOG"
+    }, {
+      "id" : "_DSxH4GDgEe2ceY2JeC6fHw",
+      "name" : "resource_webhook_payload"
     } ]
   } ]
 }
